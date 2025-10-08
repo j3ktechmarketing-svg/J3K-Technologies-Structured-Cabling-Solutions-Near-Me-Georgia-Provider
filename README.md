@@ -23,7 +23,7 @@ Our structured cabling solutions include:
 - Network closet organization and rack setup  
 - Testing, certification, and documentation  
 
-Every installation we complete adheres to TIA/EIA standards and industry best practices—ensuring your system runs efficiently, supports growth, and remains easy to maintain.  
+Every installation we complete adheres to TIA/EIA standards and industry best practices-ensuring your system runs efficiently, supports growth, and remains easy to maintain.  
 
 ---
 
